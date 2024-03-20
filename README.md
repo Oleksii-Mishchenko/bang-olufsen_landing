@@ -1,5 +1,5 @@
 # Bang&Olufsen landing page
-- [Bang&Olufsen DEMO LINK](https://Oleksii-Mishchenko.github.io/bang-olufsen_landing_page/)
+- [Bang&Olufsen DEMO LINK](https://Oleksii-Mishchenko.github.io/bang-olufsen_landing/)
 
 - [Bang&Olufsen Figma MOCKUP](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-462&mode=design&t=zBasljQhtSySC8NQ-0)
 
